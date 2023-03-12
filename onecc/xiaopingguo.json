@@ -8,7 +8,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://xly.cdnf-zzy.online/tvv/one/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
+			"jar": "https://gitee.com/f7ys/xdcode/raw/master/onecc/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
 		},
 		{
 			"key": "csp_Kunyu77",
@@ -54,7 +54,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://xly.cdnf-zzy.online/tvv/one/tegou.json"
+			"ext": "https://gitee.com/f7ys/xdcode/raw/master/onecc/tegou.json"
 		},
 		{
 			"key": "csp_biubiu_voflix",
@@ -64,7 +64,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://xly.cdnf-zzy.online/tvv/one/naifei.json"
+			"ext": "https://gitee.com/f7ys/xdcode/raw/master/onecc/naifei.json"
 		},
 		{
 			"key": "比特影视",
@@ -74,7 +74,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://xly.cdnf-zzy.online/tvv/one/zijian3.json"
+			"ext": "https://gitee.com/f7ys/xdcode/raw/master/onecc/zijian3.json"
 		},
 		{
 			"key": "天堂资源",
@@ -129,7 +129,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://xly.cdnf-zzy.online/tvv/one/bilibili.json"
+			"ext": "https://gitee.com/f7ys/xdcode/raw/master/onecc/bilibili.json"
 		},		
 		{
 			"key": "csp_Anime1",
@@ -148,7 +148,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://xly.cdnf-zzy.online/tvv/one/dongman2.json"
+			"ext": "https://gitee.com/f7ys/xdcode/raw/master/onecc/dongman2.json"
 		},
 		{
 			"key": "csp_xpath___动漫巴士",
@@ -158,7 +158,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://xly.cdnf-zzy.online/tvv/one/dongman.json"
+			"ext": "https://gitee.com/f7ys/xdcode/raw/master/onecc/dongman.json"
 		},		
 		{
 			"key": "音乐",
@@ -168,7 +168,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://xly.cdnf-zzy.online/tvv/one/yinyue.json"
+			"ext": "https://gitee.com/f7ys/xdcode/raw/master/onecc/yinyue.json"
 		},
 		{
 			"key": "热舞",
@@ -178,7 +178,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://xly.cdnf-zzy.online/tvv/one/rewu.json"
+			"ext": "https://gitee.com/f7ys/xdcode/raw/master/onecc/rewu.json"
 		},
 		{
 			"key": "儿童",
@@ -188,7 +188,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://xly.cdnf-zzy.online/tvv/one/shaoer.json"
+			"ext": "https://gitee.com/f7ys/xdcode/raw/master/onecc/shaoer.json"
 		},
 		{
 			"key": "学习",
@@ -198,7 +198,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://xly.cdnf-zzy.online/tvv/one/xuexi.json"
+			"ext": "https://gitee.com/f7ys/xdcode/raw/master/onecc/xuexi.json"
 		},
 		{
 			"key": "戏曲",
@@ -208,7 +208,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://xly.cdnf-zzy.online/tvv/one/xiqu.json"
+			"ext": "https://gitee.com/f7ys/xdcode/raw/master/onecc/xiqu.json"
 		},
 		{
 			"key": "csp_Yj1211",
@@ -227,11 +227,11 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://xly.cdnf-zzy.online/tvv/one/duanshipin.json"
+			"ext": "https://gitee.com/f7ys/xdcode/raw/master/onecc/duanshipin.json"
 		}
 	],
-	"spider": "http://45.125.46.61/box/jar/7771.png;md5;7B65FF61E7B6887F975D9D83909361D5",
-	"wallpaper": "http://www.kf666888.cn/api1/tvbox/img",
+	"spider": "",
+	"wallpaper": "",
 	"lives": [
 		{
 			"group": "redirect",
@@ -239,7 +239,7 @@
 				{
 					"name": "live",
 					"urls": [
-						"proxy://do=live&type=txt&ext=aHR0cDovLzQ1LjEyNS40Ni42MS96Yi50eHQ="
+						""
 					]
 				}
 			]
