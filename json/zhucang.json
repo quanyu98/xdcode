@@ -57,8 +57,6 @@
 "ext":"https://gitee.com/f7ys/xdcode/raw/master/py/douyu.py"},
 {"key":"py_huya","name":"🐯虎牙丨PY","type":3,"api":"py_huya","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/f7ys/xdcode/raw/master/py/huya.py"},
-{"key":"csp_Alist1","name":"🅿F7网盘测试","type":3,"api":"csp_AList","playerType":1,"quickSearch":0,"filterable":0,"searchable":0,
-"ext":"https://gitee.com/f7ys/xdcode/raw/master/ali/alist.json","jar":"https://gitee.com/f7ys/xdcode/raw/master/jar/alipan.jar"},
 {"key":"py_cctv","name":"🥇CCTV丨PY","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/f7ys/xdcode/raw/master/py/cctv.py"},
 {"key":"py_cctvzh","name":"🥇综合丨PY","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,
