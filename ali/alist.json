@@ -1,0 +1,45 @@
+{
+"drives": [
+{
+"name": "雅仙女",
+"server": "http://alist.xiaoya.pro/"
+},
+{
+"name": "触光",
+"server": "https://pan.ichuguang.com"
+},
+{
+"name": "杜比",
+"server": "https://dubi.tk"
+},
+{
+"name": "帅鹏",
+"server": "https://hi.shuaipeng.wang"
+},
+{
+"name": "星梦",
+"server": "https://pan.bashroot.top"
+},
+
+{
+"name": "一只鱼",
+"server": "https://alist.youte.ml"
+},
+{
+"name": "七米蓝",
+"server": "https://al.chirmyram.com"
+},
+{
+"name": "云播放",
+"server": "https://quanzi.laoxianghuijia.cn"
+},
+{
+"name": "九帝",
+"server": "https://alist.shenzjd.com"
+},
+{
+"name": "讯维",
+"server": "https://pan.xwbeta.com"
+}
+]
+}
