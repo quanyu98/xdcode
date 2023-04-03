@@ -1,0 +1,20 @@
+{
+  "drives": [
+    {
+      "name": "剧集",
+      "server": "https://alist.cdnf-zzy.online/阿里云盘/剧集/"
+    },
+    {
+      "name": "电影",
+      "server": "https://alist.cdnf-zzy.online/阿里云盘/电影/"
+    },
+    {
+      "name": "动漫",
+      "server": "https://alist.cdnf-zzy.online/阿里云盘/动漫/"
+    },
+    {
+      "name": "真人秀",
+      "server": "https://alist.cdnf-zzy.online/阿里云盘/真人秀/"
+    }
+  ]
+}
