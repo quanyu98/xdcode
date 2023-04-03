@@ -9,7 +9,7 @@ js调试
 
 #### 配置教程
 
-<p dir="auto"><a href="/f7ys/xdcode/raw/master/%E8%AE%B0%E5%BD%95%E8%AF%B4%E6%98%8E/vod/online.json">點播-線上</a><br>
+<p dir="auto"><a href="https://gitee.com/f7ys/xdcode/raw/master/explain/vod/offline.json">點播-線上</a><br>
 <a href="/f7ys/xdcode/raw/master/%E8%AE%B0%E5%BD%95%E8%AF%B4%E6%98%8E/vod/offline.json">點播-本地</a><br>
 <a href="/f7ys/xdcode/raw/master/%E8%AE%B0%E5%BD%95%E8%AF%B4%E6%98%8E/live/online.json">直播-線上</a><br>
 <a href="/f7ys/xdcode/raw/master/%E8%AE%B0%E5%BD%95%E8%AF%B4%E6%98%8E/live/offline.json">直播-本地</a></p>
