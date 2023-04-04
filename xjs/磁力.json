@@ -1,6 +1,6 @@
 {
   "ua": "",
-  "homeUrl": "https://www.bdys01.com",
+  "homeUrl": "https://www.bdys03.com",
   "dcPlayUrl": "true",
   "cateNode": "//a[contains(@href,'/s/')]",
   "cateName": "concat(//span[contains(@class,'nav-link-title')]/text(),//a[contains(@class,'dropdown-item')]/text())",
