@@ -49,6 +49,7 @@
 {"key":"csp_xpath_A33","name":"🎸MTV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"./sub/mtv.json"},
 {"key":"csp_Bili","name":"📺歌曲MV","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1, "ext":"./sub/gequ.txt"},
 {"key":"csp_Bili演唱会","name":"🎸演唱会","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/yanchanghui.txt"},
+{"key":"酷狗MV","name":"🎻酷狗MV","type":3,"api":"./js/drpymin.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/酷狗MV.js"},		
 {"key":"相声小品","name":"🏮相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./sub/Blixs.json"},
 {"key": "戏 曲" ,"name": "🎈国粹戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./sub/Blixq.json"},
 {"key":"兔小贝","name":"🐰兔小贝","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/tuxiaobei.js"},
